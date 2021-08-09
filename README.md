@@ -1,7 +1,7 @@
-#Versatile appointment system
+# Versatile appointment system
 
-## WEB --version
-## Mobile --version
+### WEB --version
+### Mobile --version
 
 The administrator will be able to:
 
